@@ -54,7 +54,7 @@
   "dependencies": {
     "balanced-match": "^0.4.1",
     "lodash.isplainobject": "^4.0.6",
-    "postcss": "^5.0.21",
+    "postcss": "^5.2.10",
     "resolve-from": "^2.0.0"
   },
   "ava": {
